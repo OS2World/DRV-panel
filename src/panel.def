@@ -1,0 +1,7 @@
+LIBRARY		PANEL
+DESCRIPTION	'Device driver to control Model 95 info panel'
+PROTMODE
+SEGMENTS
+		_DATA CLASS 'DATA'
+		_TEXT CLASS 'CODE'
+
